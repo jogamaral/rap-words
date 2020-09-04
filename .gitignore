@@ -1,3 +1,6 @@
+# secret IDs
+secret_id.py
+*.cache-johnnyblue544
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
